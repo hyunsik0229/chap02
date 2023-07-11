@@ -1,10 +1,10 @@
-package chap02;
+package snippet;
 
-public class exercise2_2 {
+public class OperationExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 
 }
